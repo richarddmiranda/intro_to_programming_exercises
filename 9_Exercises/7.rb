@@ -1,0 +1,1 @@
+An array contains a number of different values. A hash assigns each value to a key.

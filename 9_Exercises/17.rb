@@ -1,0 +1,1 @@
+It will print "These hashes are the same!"

@@ -1,0 +1,1 @@
+Because the argument block does not have the ampersand in front of it to signify that it is passing a block through.

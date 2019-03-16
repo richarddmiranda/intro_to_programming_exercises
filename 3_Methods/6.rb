@@ -1,0 +1,1 @@
+#That there was only 1 argument passed through the method calculate_product, when there needs to be 2.

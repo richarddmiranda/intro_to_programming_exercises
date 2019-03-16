@@ -1,0 +1,1 @@
+There is a { without an equivalent closing bracket somewhere in the programme.
